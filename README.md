@@ -1,6 +1,6 @@
 ## about:me
 * You've reached ldmsys' profile.
-** Backend Developer & System Administrator.
+  * Backend Developer & System Administrator.
 
 ### What I do?
 * I do some works with C, PHP, Shell Scripts, Node.js.
