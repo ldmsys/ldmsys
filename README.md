@@ -14,7 +14,7 @@
 * English (Secondary)
 
 ### Reach me
-* Send an email to (anything)@(my website domain)
+* Send an email to [admin@ldmsys.net](mailto:admin@ldmsys.net)
 
 <!--
 **ldmsys/ldmsys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
