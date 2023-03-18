@@ -1,12 +1,38 @@
-## about:me
-* You've reached ldmsys' profile.
-  * Backend Developer & System Administrator.
+<h1 align="center">Dongmin Lee</h1>
+<p align="center">
+<code>Make better with ["passion", "code", "hard work"]</code>
+</p>
 
-### What I do?
-* I do some works with C, PHP, Shell Scripts, Node.js?
+My name is **Dongmin Lee** (Romanized Korean name **이동민**), also known as `ldmsys`.
+
+### Interested Things
+* I am currently working at [Stella IT Inc.](https://stella-it.com) on with my `"code"`:
+    * System Software Engineering
+    * Cloud Computing
+    * Website Backend Development
+* I am currently learning with my `"passion"`:
+    * Computer Science, Low Level Programming (such as Kernel)
+    * System Security, Reverse Engineering
+    * Computer Network, Telecommunications
+    * Physics
+* Sometimes, It would be okay to do as a hobby:
+    * Game Development
+* ...and all of these requires `"hard work"`
+
+#### Programming Languages
+* As a means to *realize* something, I uses following programming languages such as:
+    * C
+    * JavaScript
+    * Shell Script
+    * PHP (in 2023..?)
+* I am learning more programming language to *realize* more things, which includes:
+    * Rust, Golang
+    * Java, Kotlin
+    * Vue.js, Nuxt.js
+    * Assembly Code
 
 ### Reach me
-* Contact method can be found in [ldmsys.net](https://ldmsys.net).
+ * Contact methods can be found in [ldmsys.net](https://ldmsys.net). Thank you.
 <!--
 **ldmsys/ldmsys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
