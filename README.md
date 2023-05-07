@@ -6,7 +6,7 @@
 My name is **Dongmin Lee** (Romanized Korean name **이동민**), also known as `ldmsys`.
 
 ### Interested Things
-* I am currently working at [Stella IT Inc.](https://stella-it.com) with my `"code"` on:
+* I am currently working as a CTO on [Stella IT Inc.](https://stella-it.com) with my `"code"` on:
     * System Software Engineering
     * Cloud Computing
     * Website Backend Development
