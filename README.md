@@ -20,7 +20,7 @@ My name is **Dongmin Lee** (Romanized Korean name **이동민**), also known as 
 * ...and all of these requires `"hard work"`
 
 #### Programming Languages
-* As a means to *realize* something, I uses following programming languages such as:
+* As a means to *realize* something, I use following programming languages such as:
     * C
     * JavaScript
     * Shell Script
