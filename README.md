@@ -3,7 +3,7 @@
 <code>Make better with ["passion", "code", "hard work"]</code>
 </p>
 
-My name is **Dongmin Lee** (Romanized Korean name **이동민**), also known as `ldmsys`.
+I'm **Dongmin Lee** (Romanized Korean name **이동민**), also known as `ldmsys`.
 
 ### Interested Things
 * I am currently working as a CTO at [Stella IT Inc.](https://stella-it.com) with my `"code"` on:
