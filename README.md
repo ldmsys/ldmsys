@@ -19,10 +19,11 @@ My name is **Dongmin Lee** (Romanized Korean name **이동민**), also known as 
     * Game Development
 * ...and all of these requires `"hard work"`
 
-#### Programming Languages
+<details>
+   <summary>Programming Languages</summary>
 * As a means to *realize* something, I use following programming languages such as:
     * C
-    * JavaScript
+    * JavaScript (including TypeScript)
     * Shell Script
     * PHP (in 2023..?)
 * I am learning more programming language to *realize* more things, which includes:
@@ -36,6 +37,8 @@ My name is **Dongmin Lee** (Romanized Korean name **이동민**), also known as 
     * Many of Internal Projects of [Stella-IT](https://github.com/Stella-IT)
     * [FADe-Project/fade](https://github.com/fade-project/fade)
 -->
+</details>
+
 
 ### Reach me
  * Contact methods can be found in [ldmsys.net](https://ldmsys.net). Thank you.
