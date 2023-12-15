@@ -19,6 +19,7 @@ My name is **Dongmin Lee** (Romanized Korean name **이동민**), also known as 
     * Game Development
 * ...and all of these requires `"hard work"`
 
+<!--
 <details>
    <summary>Programming Languages</summary>
 * As a means to *realize* something, I use following programming languages such as:
@@ -31,13 +32,12 @@ My name is **Dongmin Lee** (Romanized Korean name **이동민**), also known as 
     * Java, Kotlin
     * Vue.js, Nuxt.js
     * Assembly Code
-<!--
+
 ### Projects
  * I am a maintainer of:
     * Many of Internal Projects of [Stella-IT](https://github.com/Stella-IT)
     * [FADe-Project/fade](https://github.com/fade-project/fade)
--->
-</details>
+</details> -->
 
 
 ### Reach me
