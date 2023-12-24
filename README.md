@@ -6,38 +6,15 @@
 My name is **Dongmin Lee** (Romanized Korean name **이동민**), also known as `ldmsys`.
 
 ### Interested Things
-* I am currently working as a CTO at [Stella IT Inc.](https://stella-it.com) with my `"code"` on:
-    * System Software Engineering
-    * Cloud Computing
-    * Website Backend Development
 * I am currently learning with my `"passion"` on:
     * Computer Science, Low Level Programming (such as Kernel)
     * System Security, Reverse Engineering
     * Computer Network, Telecommunications
     * Physics
-* Sometimes, It would be okay to do as a hobby with:
-    * Game Development
-* ...and all of these requires `"hard work"`
-
-<!--
-<details>
-   <summary>Programming Languages</summary>
-* As a means to *realize* something, I use following programming languages such as:
-    * C
-    * JavaScript (including TypeScript)
-    * Shell Script
-    * PHP (in 2023..?)
-* I am learning more programming language to *realize* more things, which includes:
-    * Rust, Golang
-    * Java, Kotlin
-    * Vue.js, Nuxt.js
-    * Assembly Code
-
-### Projects
- * I am a maintainer of:
-    * Many of Internal Projects of [Stella-IT](https://github.com/Stella-IT)
-    * [FADe-Project/fade](https://github.com/fade-project/fade)
-</details> -->
+* I have some experience at [Stella IT Inc.](https://stella-it.com) with my `"code"` on:
+    * System Software Engineering
+    * Cloud Computing
+* ...all of these requires `"hard work"`
 
 
 ### Reach me
