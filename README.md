@@ -6,16 +6,13 @@
 My name is **Dongmin Lee** (Romanized Korean name **이동민**), also known as `ldmsys`.
 
 ### Interested Things
-* I am currently learning with my `"passion"` on:
-    * Computer Science, Low Level Programming (such as Kernel)
-    * System Security, Reverse Engineering
-    * Computer Network, Telecommunications
-    * Physics
-* I have some experience at [Stella IT Inc.](https://stella-it.com) with my `"code"` on:
-    * System Software Engineering
+* Interested Research Field
+    * Operating Systems
+    * Computer Network
+    * Reliable Computing
+* Experience at [Stella IT Inc.](https://stella-it.com):
     * Cloud Computing
 * ...all of these requires `"hard work"`
-
 
 ### Reach me
  * Contact methods can be found in [ldmsys.net](https://ldmsys.net). Thank you.
