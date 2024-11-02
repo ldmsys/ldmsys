@@ -5,14 +5,7 @@
 
 My name is **Dongmin Lee** (Romanized Korean name **이동민**), also known as `ldmsys`.
 
-### Interested Things
-* Interested Research Field
-    * Operating Systems
-    * Computer Network
-    * Reliable Computing
-* Experience at [Stella IT Inc.](https://stella-it.com):
-    * Cloud Computing
-* ...all of these requires `"hard work"`
+My main focus is on making computing more secure and efficient, from the core OS level to the computer networking.
 
 ### Reach me
  * Contact methods can be found in [ldmsys.net](https://ldmsys.net). Thank you.
